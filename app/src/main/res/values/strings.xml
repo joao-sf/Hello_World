@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_World</string>
+    <string name="opc1">Opção 1</string>
+    <string name="opc2">Opção 2</string>
+</resources>
